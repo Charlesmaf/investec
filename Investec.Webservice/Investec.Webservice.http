@@ -1,0 +1,6 @@
+@Investec.Webservice_HostAddress = http://localhost:5262
+
+GET {{Investec.Webservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
